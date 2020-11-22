@@ -1,0 +1,44 @@
+site_name: AdventuresCraft Wiki
+site_url: https://www.adventurescraft.net/wiki
+site_description: Wikipedia for the Minecraft MMORPG Server, AdventuresCraft!
+site_author: Monzter
+copyright: "© AdventuresCraft 2020"
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - search.highlight
+  palette:
+    - scheme: slate
+      primary: red
+      accent: red
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: img/logo.png
+  favicon: img/favicon.ico
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/bw4DztR
+    - icon: fontawesome/solid/home
+      link: https://www.adventurescraft.net/
+    - icon: fontawesome/solid/credit-card
+      link: http://store.adventurescraft.net/
+
+nav:
+  - 'Professions':
+      - 'Overview': professions/overview.md
+      - 'Farming': professions/farming.md
+  - 'Learn Beton':
+      - Learn-Beton/Welcome.md
+      - 'Getting Started':
+          - Learn-Beton/Getting-Started/Setting-up-a-local-test-server.md
+          - Learn-Beton/Getting-Started/Installing-BetonQuest.md
+          - Learn-Beton/Getting-Started/Setting-up-the-editor.md
+          - Learn-Beton/Getting-Started/Quick-Start-Tutorial.md
+      - Learn-Beton/Frequently-Asked-Questions.md
+      - Learn-Beton/Tips-and-tricks.md
