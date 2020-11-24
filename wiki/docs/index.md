@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to AdventuresCraft!
+AdventuresCraft is an **MMORPG** **Minecraft Server** filled with **100+ Quests**, **150 Unique Mobs**, **World Bosses**, **250+ Epic Items**, **Mounts**, and so much more!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+> Join **play.AdventuresCraft.net**, **versions**: **1.9.2** - **Latest**
 
-## Commands
+## Resources
+* Join our <kbd>Discord</kbd> https://discord.gg/bw4DztR
+* Checkout our <kbd>Store</kbd> http://store.adventurescraft.net
+* View the <kbd>Rules</kbd> https://www.adventurescraft.net/rules.html
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> **Wanna Help?** Are you interested in helping maintain the Wiki? Checkout this page for more information, you could even get rewarded!
