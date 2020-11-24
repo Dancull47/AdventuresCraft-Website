@@ -37,16 +37,17 @@ extra:
 nav:
   - 'Home': 
       - 'Overview': index.md
-      - 'FAQ': faq.md
+      #- 'FAQ': faq.md
   - 'Professions':
       - 'Overview': professions/overview.md
       - 'Farming': professions/farming.md
   - 'Areas':
       - 'Overview': areas/overview.md
-      - 'Getting Started':
-          - Learn-Beton/Getting-Started/Setting-up-a-local-test-server.md
-          - Learn-Beton/Getting-Started/Installing-BetonQuest.md
-          - Learn-Beton/Getting-Started/Setting-up-the-editor.md
-          - Learn-Beton/Getting-Started/Quick-Start-Tutorial.md
-      - Learn-Beton/Frequently-Asked-Questions.md
-      - Learn-Beton/Tips-and-tricks.md
+      - 'Farming': areas/farm.md
+      #- 'Getting Started':
+       #   - Learn-Beton/Getting-Started/Setting-up-a-local-test-server.md
+        #  - Learn-Beton/Getting-Started/Installing-BetonQuest.md
+         # - Learn-Beton/Getting-Started/Setting-up-the-editor.md
+          #- Learn-Beton/Getting-Started/Quick-Start-Tutorial.md
+      #- Learn-Beton/Frequently-Asked-Questions.md
+      #- Learn-Beton/Tips-and-tricks.md
