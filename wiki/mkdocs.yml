@@ -1,5 +1,5 @@
 site_name: AdventuresCraft Wiki
-site_url: https://www.adventurescraft.net/wiki
+site_url: https://www.adventurescraft.net/wiki/site/index.html
 site_description: Wikipedia for the Minecraft MMORPG Server, AdventuresCraft!
 site_author: Monzter
 copyright: "© AdventuresCraft 2020"
@@ -35,9 +35,10 @@ extra:
       link: http://store.adventurescraft.net/
 
 nav:
-  - 'Home': index.md
+  - 'Home': 
+      - 'Overview': index.md
   - 'Important':
-
+      - 'Overview': professions/overview.md
   - 'Professions':
       - 'Overview': professions/overview.md
       - 'Farming': professions/farming.md
