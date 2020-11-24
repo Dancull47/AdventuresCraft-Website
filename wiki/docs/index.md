@@ -3,6 +3,9 @@ AdventuresCraft is an **MMORPG** **Minecraft Server** filled with **100+ Quests*
 
 > Join **play.AdventuresCraft.net**, **versions**: **1.9.2** - **Latest**
 
+![Screenshot](img/Logo_Presentation.jpg)
+
+
 ## Resources
 * Join our <kbd>Discord</kbd> https://discord.gg/bw4DztR
 * Checkout our <kbd>Store</kbd> http://store.adventurescraft.net
