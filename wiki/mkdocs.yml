@@ -38,7 +38,7 @@ nav:
   - 'Home': index.md
   - 'Important':
 
-  - 'Professions': professions/overview.md
+  - 'Professions':
       - 'Overview': professions/overview.md
       - 'Farming': professions/farming.md
   - 'Learn Beton':
