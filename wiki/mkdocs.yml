@@ -35,7 +35,10 @@ extra:
       link: http://store.adventurescraft.net/
 
 nav:
-  - 'Professions':
+  - 'Home': index.md
+  - 'Important':
+
+  - 'Professions': professions/overview.md
       - 'Overview': professions/overview.md
       - 'Farming': professions/farming.md
   - 'Learn Beton':
