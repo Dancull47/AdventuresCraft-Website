@@ -37,6 +37,7 @@ extra:
 nav:
   - 'Home': 
       - 'Overview': index.md
+      - 'FAQ': faq.md
   - 'Professions':
       - 'Overview': professions/overview.md
       - 'Farming': professions/farming.md
