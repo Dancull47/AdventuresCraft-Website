@@ -37,13 +37,11 @@ extra:
 nav:
   - 'Home': 
       - 'Overview': index.md
-  - 'Important':
-      - 'Overview': professions/overview.md
   - 'Professions':
       - 'Overview': professions/overview.md
       - 'Farming': professions/farming.md
-  - 'Learn Beton':
-      - Learn-Beton/Welcome.md
+  - 'Areas':
+      - 'Overview': areas/overview.md
       - 'Getting Started':
           - Learn-Beton/Getting-Started/Setting-up-a-local-test-server.md
           - Learn-Beton/Getting-Started/Installing-BetonQuest.md
