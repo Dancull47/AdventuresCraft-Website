@@ -4,6 +4,11 @@ site_description: Wikipedia for the Minecraft MMORPG Server, AdventuresCraft!
 site_author: Monzter
 copyright: "© AdventuresCraft 2020"
 
+repo_name: AdventuresQuest
+edit_uri: /Dancull47/AdventuresQuest/edit/master/wiki/docs
+repo_url: https://github.com/Dancull47/AdventuresQuest
+
+
 theme:
   name: material
   language: en
