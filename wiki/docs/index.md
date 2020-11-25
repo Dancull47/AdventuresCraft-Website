@@ -5,8 +5,8 @@ AdventuresCraft is an **MMORPG** **Minecraft Server** filled with **100+ Quests*
 
 ![Screenshot](img/Logo_Presentation.jpg)
 ## Resources
-* Join our <kbd>Discord</kbd> https://discord.gg/bw4DztR
-* Checkout our <kbd>Store</kbd> http://store.adventurescraft.net
-* View the <kbd>Rules</kbd> https://www.adventurescraft.net/rules.html
+* Join our <kbd>[**Discord**](https://discord.gg/bw4DztR)</kbd> 
+* Checkout our <kbd>[**Store**](http://store.adventurescraft.net)</kbd>
+* View the <kbd>[**Rules**](https://www.adventurescraft.net/rules.html)</kbd>
 
 > **Wanna Help?** Are you interested in helping maintain the Wiki? Checkout this page for more information, you could even get rewarded!
