@@ -37,6 +37,7 @@ extra:
 nav:
   - 'Home': 
       - 'Overview': index.md
+      - 'Vote': vote.md
       #- 'FAQ': faq.md
   - 'Professions':
       - 'Overview': professions/overview.md
