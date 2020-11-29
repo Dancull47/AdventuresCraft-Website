@@ -10,24 +10,21 @@
 
 ### **QUESTS**
 <details><summary><strong>Thrall Thrashing</strong> from Khazix</summary>
-**Summary**:
+<strong>Summary</strong>:
 <ol>
 <li>Vanquish 30 Void Thralls</li>
 <li>Bring 16 Thrall Eggs to Khazix</li>
 </ol>	
 
-**Rewards**:
-- 4x Thrall Balls 
-- 300EXP 
-- 300 Slayer EXP
-- 300 Void Reputation
-- 250 Coins
+Rewards:
+<ul>
+<li>4x Thrall Balls</li>
+<li>300EXP</li>
+<li>300 Slayer EXP</li>
+<li>300 Void Reputation</li>
+<li>250 Coins</li>
+</ul>
 </details>
-<details><summary>Thrall Thrashing from Khazix</summary>
-Vanquish 30 Void Thralls
-Bring 16 Thrall Eggs to Khazix
-</details>
-
 
 ### **MOBS**
 **Name** | **Temper**
