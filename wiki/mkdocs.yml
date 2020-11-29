@@ -45,6 +45,7 @@ nav:
   - 'Areas':
       - 'Overview': areas/overview.md
       - 'Farming': areas/farm.md
+      - 'Void': areas/void.md
       #- 'Getting Started':
        #   - Learn-Beton/Getting-Started/Setting-up-a-local-test-server.md
         #  - Learn-Beton/Getting-Started/Installing-BetonQuest.md
