@@ -38,6 +38,7 @@ nav:
   - 'Home': 
       - 'Overview': index.md
       - 'Vote': vote.md
+      - 'Commands': commands.md
       #- 'FAQ': faq.md
   - 'Professions':
       - 'Overview': professions/overview.md

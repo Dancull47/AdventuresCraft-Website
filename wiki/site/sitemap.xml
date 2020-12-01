@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://www.adventurescraft.net/wiki/site/index.html/</loc>
-     <lastmod>2020-11-29</lastmod>
+     <lastmod>2020-12-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.adventurescraft.net/wiki/site/index.html/vote/</loc>
-     <lastmod>2020-11-29</lastmod>
+     <lastmod>2020-12-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.adventurescraft.net/wiki/site/index.html/commands/</loc>
+     <lastmod>2020-12-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.adventurescraft.net/wiki/site/index.html/professions/overview/</loc>
-     <lastmod>2020-11-29</lastmod>
+     <lastmod>2020-12-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.adventurescraft.net/wiki/site/index.html/professions/farming/</loc>
-     <lastmod>2020-11-29</lastmod>
+     <lastmod>2020-12-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.adventurescraft.net/wiki/site/index.html/areas/overview/</loc>
-     <lastmod>2020-11-29</lastmod>
+     <lastmod>2020-12-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.adventurescraft.net/wiki/site/index.html/areas/farm/</loc>
-     <lastmod>2020-11-29</lastmod>
+     <lastmod>2020-12-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.adventurescraft.net/wiki/site/index.html/areas/void/</loc>
-     <lastmod>2020-11-29</lastmod>
+     <lastmod>2020-12-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
