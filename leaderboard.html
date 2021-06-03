@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en" class="fancy">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+	<title>Web Stats demo page</title>
+	
+	<script src="js/data.js"></script>
+	<script src="js/display.js"></script>
+	<script src="js/connection.js"></script>
+	<script src="js/stats.js"></script>
+	
+	<script>
+		window.addEventListener("load", () => {
+			const stats = new WebStats({
+				table: document.querySelector("table"),
+				baseURL: "./res",
+				sortBy: "Player",
+				descending: true,
+			})
+		})
+		// You can set the update interval (in ms) *before* initialising WebStats (optional, default 10000)
+		WebStats.updateInterval = 0 // Set to 0 to disable auto-updating online player list
+
+		window.onload = () => {
+			new WebStats({
+				table: document.querySelector("table"), // The <table> element to use (required)
+				ip: "94.130.236.6",                     // The IP of the server (required)
+				port: 8081,                             // The port set in the config.yml on the server (required)
+				sortBy: "Active Play Minutes",          // The initial sorted objective (optional, default "Player")
+				descending: true,                       // The initial sorting direction (optional, default false)
+			})
+		}
+	</script>
+	
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<main>
+		<p>
+			You can click on the headers <i>Player</i>, <i>Deaths</i> and <i>Mine Diamond</i> to sort on them.
+			(this data is of course made up)
+		</p>
+		<table></table>
+	</main>
+</body>
+</html>
