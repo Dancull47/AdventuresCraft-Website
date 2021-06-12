@@ -39,6 +39,7 @@ nav:
       - 'Overview': index.md
       - 'Vote': vote.md
       - 'Commands': commands.md
+      - 'Resource Pack': resource-pack.md
       #- 'FAQ': faq.md
   - 'Professions':
       - 'Overview': professions/overview.md
@@ -47,6 +48,8 @@ nav:
       - 'Overview': areas/overview.md
       - 'Farming': areas/farm.md
       - 'Void': areas/void.md
+  - 'Defense':
+      - 'Castle': defense/castle.md
       #- 'Getting Started':
        #   - Learn-Beton/Getting-Started/Setting-up-a-local-test-server.md
         #  - Learn-Beton/Getting-Started/Installing-BetonQuest.md
