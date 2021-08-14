@@ -2225,7 +2225,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 }
 
 .wrapper.style1 {
-  background-color: #21b2a6;
+  background-color: #ed49335d;
   color: #c7ebe8;
 }
 
@@ -2677,7 +2677,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
   -ms-transition: -ms-transform 0.5s ease;
   transition: transform 0.5s ease;
   -webkit-overflow-scrolling: touch;
-  background: #21b2a6;
+  background: rgba(245, 102, 6, 0.4);
   color: #ffffff;
   height: 100%;
   max-width: 80%;
@@ -3290,4 +3290,75 @@ body.is-mobile.landing #banner, body.is-mobile.landing .wrapper.style4 {
 
 body.is-mobile.landing #footer {
   background-color: #1d242a;
+}
+
+.serverSelect {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -ms-appearance: none;
+  appearance: none;
+  -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 50px;
+  font-weight: 1000;
+  width: 14.125em;
+  height: 10.125em;
+  letter-spacing: 0.225em;
+  line-height: 3.125em;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#prison {
+  color: rgb(70, 255, 53);
+  animation: glow 5s infinite;
+}
+
+#prison:hover {
+  transform: scale(1.25);
+  -webkit-filter: drop-shadow(1px 1px 10px rgb(70, 255, 53));
+  filter: drop-shadow(1px 1px 10px rgb(70, 255, 53));
+}
+
+@keyframes glow {
+  0%, 100% {
+    -webkit-filter: drop-shadow(1px 1px 10px rgb(70, 255, 53));
+    filter: drop-shadow(1px 1px 10px rgb(70, 255, 53));  
+  }
+  50% {
+    -webkit-filter: drop-shadow(1px 1px 20px rgb(70, 255, 53));
+    filter: drop-shadow(1px 1px 20px rgb(70, 255, 53));  
+  }
+}
+
+#adventure {
+  color: rgb(255, 53, 53);
+  animation: glow2 5s infinite;
+}
+
+#adventure:hover {
+  transform: scale(1.25);
+  -webkit-filter: drop-shadow(1px 1px 10px rgb(255, 53, 53));
+  filter: drop-shadow(1px 1px 10px rgb(255, 53, 53));
+}
+
+@keyframes glow2 {
+  0%, 100% {
+    -webkit-filter: drop-shadow(1px 1px 10px rgb(255, 53, 53));
+    filter: drop-shadow(1px 1px 10px rgb(255, 53, 53));  
+  }
+  50% {
+    -webkit-filter: drop-shadow(1px 1px 20px rgb(255, 53, 53));
+    filter: drop-shadow(1px 1px 20px rgb(255, 53, 53));  
+  }
 }
