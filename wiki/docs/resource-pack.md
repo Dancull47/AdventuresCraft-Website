@@ -1,7 +1,9 @@
 # **Resource Pack**
+
 Our **Adventures Gamemode** has a custom Resource Pack avaiable for download. Of course using the Resource Pack offers new awesome and immesrive textures to improve your experience! 
 
 ## Getting the Resource Pack
+
 1. Before joining **AdventuresCraft** click on the Server <br>
 ![Screenshot](img/Resource-Pack-1.png)
 2. Click the **Edit** button near the bottom of the screen <br>

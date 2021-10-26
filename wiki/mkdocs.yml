@@ -40,6 +40,7 @@ nav:
       - 'Vote': vote.md
       - 'Commands': commands.md
       - 'Resource Pack': resource-pack.md
+      - 'Dev Log': dev-log.md
       #- 'FAQ': faq.md
   - 'Professions':
       - 'Overview': professions/overview.md
@@ -47,6 +48,7 @@ nav:
   - 'Areas':
       - 'Overview': areas/overview.md
       - 'Farming': areas/farm.md
+      - 'Cavern': areas/cavern.md
       - 'Void': areas/void.md
   - 'Defense':
       - 'Castle': defense/castle.md
